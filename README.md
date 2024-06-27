@@ -38,5 +38,5 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 
 **Detect balls in a video:**
     ```bash
-    python yolo_test.py
+    python detect_webcam.py
     ```
