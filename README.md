@@ -34,5 +34,3 @@ This project utilizes the YOLO (You Only Look Once) object detection algorithm t
 3. **Download YOLOv4 weights:**
     Download the YOLOv4 weights file from the [official YOLOv4 GitHub repository](https://github.com/AlexeyAB/darknet) and place it in the `model` directory.
 
-## File Structure
-
